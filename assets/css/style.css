@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+}
+
+li {
+    color: darkslategray;
+    display: inline;
+}
+
+a {
+    color: darkslategray;
+}
